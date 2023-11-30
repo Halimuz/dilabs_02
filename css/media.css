@@ -1,0 +1,811 @@
+
+@media(max-width:1399px){
+    .header_logo img{
+        width: 90%;
+        margin-left: 0px;
+    }
+    .header_info h5{
+        font-size: 16px;
+    }
+    .header_info h6{
+        font-size: 14px;
+    }
+    .info_icon i{
+        font-size: 22px;
+    }
+    .nav-link{
+        margin: 0px 5px;
+    }
+    .carousel_info h1{
+        font-size: 34px;
+    }
+    .carousel_info_02 h2{
+        font-size: 36px;
+    }
+    .carousel_info_02 h1{
+        font-size: 55px;
+    }
+    .carousel_info p{
+        line-height: 28px;
+        margin-bottom: 20px;
+    }
+    .my_carousel .owl-item img{
+        width: 45%;
+    }
+    .carousel_section .owl-dots{
+        bottom: 5%;
+    }
+    .welcome_image img {
+        position: absolute;
+        width: 40%;
+        bottom: 0;
+    }
+    .welcome_info_title h1{
+        font-size: 28px;
+    }
+    .welcome_info_title p{
+        line-height: 22px;
+        font-size: 14px;
+    }
+    .welcome_infoArea{
+        margin-right: 5%;
+    }
+    .welcome_info .info_unit h6{
+        font-size: 16px;
+    }
+    .welcome_info .info_unit p{
+        font-size: 16px;
+    }
+    .tm_carousel .owl-nav .owl-prev span{
+        bottom: 30%;
+        transform: translateX(-10px);
+    }
+    .tm_carousel .owl-nav .owl-next span{
+        bottom: 30%;
+        transform: translateX(10px);
+    }
+    .footer_signUp input{
+        width: 63%;
+    }
+    .footer_social_icon{
+        flex-wrap: wrap;
+    }
+    .footer_social_icon h6{
+        font-size: 18px;
+        width: 40%;
+    }
+    .footer_icons {
+        display: flex;
+        width: 80%;
+    }
+    .footer_social_icon .social_icon{
+        margin: 0;
+        margin-right: 10px;
+        margin-top: 5px;
+    }
+
+}
+
+/* Large Section */
+
+@media(max-width:1199px){
+    .header_logo img{
+        width: 90%;
+        margin-left: 0px;
+    }
+    .header_info h5{
+        font-size: 16px;
+    }
+    .header_info h6{
+        font-size: 14px;
+    }
+    .info_icon i{
+        font-size: 22px;
+    }
+    .nav-link{
+        margin: 0px 5px;
+    }
+    .carousel_info h1{
+        font-size: 34px;
+    }
+    .carousel_info_02 h2{
+        font-size: 36px;
+    }
+    .carousel_info_02 h1{
+        font-size: 55px;
+    }
+    .carousel_info p{
+        line-height: 28px;
+        margin-bottom: 20px;
+    }
+    .my_carousel .owl-item img{
+        width: 50%;
+    }
+    .carousel_section .owl-dots{
+        bottom: 5%;
+    }
+    .welcome_image img {
+        width: 45%;
+    }
+    .welcome_info_title h1{
+        font-size: 28px;
+    }
+    .welcome_info_title p{
+        line-height: 22px;
+        font-size: 14px;
+    }
+    .welcome_infoArea{
+        margin-right: 5%;
+    }
+    .welcome_info .info_unit h6{
+        font-size: 16px;
+    }
+    .welcome_info .info_unit p{
+        font-size: 16px;
+    }
+    .tm_carousel .owl-nav .owl-prev span{
+        bottom: 30%;
+        transform: translateX(-10px);
+    }
+    .tm_carousel .owl-nav .owl-next span{
+        bottom: 30%;
+        transform: translateX(10px);
+    }
+    .footer_signUp input{
+        width: 63%;
+    }
+    .footer_social_icon{
+        flex-wrap: wrap;
+    }
+    .footer_social_icon h6{
+        font-size: 18px;
+        width: 40%;
+    }
+    .footer_icons {
+        display: flex;
+        width: 80%;
+    }
+    .footer_social_icon .social_icon{
+        margin: 0;
+        margin-right: 10px;
+        margin-top: 5px;
+    }
+
+}
+
+/* Medium Section */
+
+@media(max-width:991px){
+    .header_top{
+        padding: 20px 0px;
+    }
+    .info_icon i{
+        font-size: 20px;
+    }
+    .header_info h5{
+        font-size: 15px;
+    }
+    .header_info h6{
+        font-size: 11px;
+    }
+    .nav-link{
+        padding: 10px;
+        margin: 0px;
+        font-size: 14px;
+    }
+    .offcanvas.show:not(.hiding), .offcanvas.showing {
+        transform: none;
+        background: #006670;
+        width: 50%;
+        height: auto;
+        border: none;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .navbar-toggler:focus{
+        box-shadow: none;
+        border: none;
+    }
+    .navbar-nav{
+        width: 100%;
+        display: flex;
+        align-items: center;
+    }
+    .nav-item {
+        margin-bottom: 5px;
+    }
+    .navbar-toggler {
+        border: none;
+        width: 10%;
+        color: #fff;
+    }
+    .btn_apointment{
+        font-size: 14px;
+        padding: 10px;
+    }
+    .navbar .container-fluid{
+        margin: 0;
+        padding: 0;
+    }
+    .carousel_info_02 h2{
+        font-size: 27px !important;
+    }
+    .carousel_info_02 h1{
+        font-size: 40px !important;
+    }
+    .carousel_info h2{
+        font-size: 25px;
+    }
+    .carousel_info h1{
+        font-size: 25px;
+    }
+    .carousel_info p{
+        line-height: 20px;
+        font-size: 14px;
+    }
+    .carousel_section{
+        min-height: 65vh;
+    }
+    .carousel_infoArea{
+        height: 65vh;
+    }
+    .btn_learnMore, .btn_bookNow{
+        font-size: 14px;
+        padding: 5px 10px;
+    }
+    .welcome_info_title h1{
+        font-size: 26px;
+    }
+    .welcome_image {
+        width: 100%;
+    }
+    .welcome_image img {
+        width: 40%;
+    }
+    .welcome_info_title p {
+        line-height: 24px;
+        word-spacing: -1px;
+        margin-bottom: 20px;
+        font-size: 16px;
+    }
+    .welcome_info{
+        margin-bottom: 0px;
+    }
+    .info_unit {
+        width: 48%;
+        margin-bottom: 15px;
+    }
+    .info_unit h6{
+        font-size: 16px;
+    }
+    .info_unit p{
+        font-size: 14px;
+    }
+    .info_images {
+        width: 12%;
+        margin: initial;
+    }
+    .section_title h1{
+        font-size: 26px;
+    }
+    .service_info {
+        margin: 10px;
+        padding: 16px;
+    }
+    .service_info .images{
+        margin: auto;
+    }
+    .service_info .image_info {
+        width: 80%;
+        margin: auto;
+    }
+    .service_info .image_info h6{
+        font-size: 15px;
+    }
+    .service_info p{
+        font-size: 15px;
+    }
+    .service_info a{
+        font-size: 15px;
+    }
+    .service_info a i{
+        font-size: 15px;
+    }
+    .box_title h3{
+        font-size: 22px;
+    }
+    .box_title p{
+        font-size: 14px;
+    }
+    .price {
+        padding: 10px 0px;
+    }
+    .price h1{
+        font-size: 28px;
+    }
+    .price p{
+        font-size: 14px;
+    }
+    .price_info p{
+        line-height: 20px;
+        font-size: 14px;
+    }
+    .pricing_box .btn_signUp{
+        padding: 5px 10px;
+        margin: 0px;
+        margin-bottom: 10px;
+    }
+    .tm_carousel_images img{
+        width: 60% !important;
+    }
+    .tm_carousel_images .owl-carousel .owl-stage{
+        display: flex;
+        align-items: center;
+    }
+    .tm_carousel .owl-nav .owl-prev span{
+        bottom: 30%;
+        transform: translateX(-20px);
+    }
+    .tm_carousel .owl-nav .owl-next span{
+        bottom: 30%;
+        transform: translateX(20px);
+    }
+    .tm_carouselArea .section_titleArea p {
+        margin: 10px 0px;
+        font-size: 14px;
+    }
+    .footer_info_title img{
+        width: 70%;
+    }
+    .footer_info_title h4{
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+    .footer_info_content h5{
+        font-size: 12px;
+        margin-bottom: 20px;
+        line-height: 20px;
+        padding-bottom: 0px;
+    }
+    .content_icon i{
+        font-size: 20px;
+    }
+    .content{
+        padding-left: 4px;
+    }
+    .footer_content a{
+        font-size: 12px;
+    }
+    .footer_content p{
+        font-size: 11px;
+        margin-top: 0px;
+    }
+    .content_image{
+        margin-right: 10px;
+    }
+    .content_image img{
+        width: 100%;
+        margin-top: 10px;
+    }
+    .footer_top{
+        padding-bottom: 10px;
+    }
+    .footer_bottom p{
+        font-size: 14px;
+    }
+    .footer_signUp{
+        display: contents;
+    }
+    .footer_signUp input{
+        width: 100%;
+        padding: 5px 10px;
+        margin-bottom: 10px;
+    }
+    .footer_signUp a{
+        padding: 5px 10px;
+        width: 100%;
+    }
+    .footer_social_icon{
+        margin-top: 20px;
+    }
+    .footer_icons {
+        width: 100%;
+        justify-content: space-between;
+    }
+
+
+}
+
+/* Small Section */
+
+@media(max-width:767px){
+    .header_top_info {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: start;
+    }
+    .nav-link {
+        padding: 10px 30px;
+    }
+    .carousel_info h2 {
+        font-size: 16px;
+        padding: 5px 10px;
+    }
+    .carousel_info h1 {
+        font-size: 16px;
+        padding: 5px 10px;
+        margin-top: 5px;
+    }
+    .carousel_info p {
+        margin-bottom: 5px;
+        padding: 10px 0px;
+    }
+    .carousel_info_02 p {
+        line-height: 20px;
+        font-size: 14px;
+        margin-bottom: 5px;
+        padding: 10px 0px;
+    }
+    .owl-carousel .owl-item img {
+        width: 55%;
+    }
+    .carousel_section {
+        min-height: 50vh;
+    }
+    .carousel_infoArea {
+        height: 50vh;
+    }
+    .btn_learnMore, .btn_bookNow {
+    font-size: 12px;
+    padding: 3px 6px;
+    }
+    .welcome_section .section_title {
+        text-align: center;
+    }
+    .welcome_section {
+        margin: 50px 0px;
+    }
+    .welcome_section .section_title h1 {
+        margin-bottom: 10px;
+        font-size: 24px;
+    }
+    .welcome_image {
+        width: 50%;
+        margin: auto;
+    }
+    .welcome_image img {
+        width: 100%;
+        margin-bottom: 20px;
+        position: unset;
+    }
+    .welcome_infoArea {
+        margin-right: 0;
+    }
+    .welcome_info{
+        text-align: center;
+        justify-content: center;
+    }
+    .info_unit {
+        width: 40%;
+        padding: 0px 20px;
+    }
+    .info_images {
+        width: 10%;
+        margin: auto;
+    }
+    .welcome_section .section_title p {
+        font-size: 14px;
+        padding: 0px 100px;
+    }
+    .welcome_info .info_unit h6 {
+        font-size: 15px;
+    }
+    .welcome_info .info_unit p {
+        font-size: 14px;
+    }
+    .service_info {
+        margin: 5px;
+        padding: 0px;
+        text-align: center;
+    }
+    .box_title {
+        padding: 10px 0px;
+    }
+    .box_title h3 {
+        font-size: 17px;
+    }
+    .box_title p {
+        font-size: 12px;
+    }
+    .price {
+        padding: 5px 0px;
+    }
+    .price h1 {
+        font-size: 22px;
+    }
+    .price p {
+        font-size: 12px;
+    }
+    .price_info p {
+        font-size: 12px;
+    }
+    .pricing_box .btn_signUp{
+        font-size: 12px;
+    }
+    .tm_carousel .owl-nav .owl-prev span {
+        bottom: 20%;
+        transform: translateX(-30px);
+    }
+    .tm_carousel .owl-nav .owl-next span {
+        bottom: 20%;
+        transform: translateX(30px);
+    }
+    .footer_info_content h5 {
+        margin-bottom: 10px;
+        line-height: 16px;
+    }
+    .content {
+        line-height: 14px;
+    }
+    .footer_info_content .center_content{
+        line-height: 14px;
+    }
+    .footer_social_icon h6 {
+        font-size: 18px;
+        width: 60%;
+    }
+    
+}
+
+/* Extra Small Section */
+
+@media(max-width:575px){
+    .header_logo {
+        width: 50%;
+        margin: auto;
+    }
+    .header_logo img {
+        width: 100%;
+        margin: 0;
+    }
+    .header_top_info {
+        flex-wrap: wrap;
+        margin-top: 30px;
+    }
+    .info_items {
+        width: 100%;
+        display: flex;
+        justify-content: start;
+        margin-bottom: 5px;
+    }
+    .info_icon i {
+        font-size: 16px;
+    }
+    .header_info h5 {
+        font-size: 14px;
+    }
+    .info_icon i {
+    font-size: 16px;
+    }
+    .carousel_section {
+        min-height: 50vh;
+    }
+    .carousel_imaages {
+        display: none;
+    }
+    .carousel_infoArea {
+        height: 50vh;
+        width: 90%;
+        margin: auto;
+        text-align: center;
+    }
+    .carousel_info h1{
+        font-size: 18px !important;
+        display: inline-block;
+    }
+    .carousel_info h2{
+        font-size: 18px !important;
+        display: inline-block;
+    }
+    .carousel_info_02 h1{
+        font-size: 27px !important;
+        display: inline-block;
+    }
+    .carousel_info_02 h2{
+        font-size: 18px !important;
+        display: inline-block;
+    }
+    .carousel_info p {
+        padding: 10px 75px;
+    }
+    .carousel_info_02 p {
+        padding: 10px 75px;
+    }
+    .carousel_section .owl-dots {
+        bottom: 0%;
+    }
+    .section_title h1 {
+        margin-bottom: 10px;
+        font-size: 24px;
+    }
+    .section_title p{
+        padding: 0px 100px;
+    }
+
+    .doctors_info {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .title_logo img {
+        padding: 20px 0px;
+        padding-top: 0px;
+    }
+    .service_infoArea{
+        justify-content: center;
+    }
+    .service_info {
+        width: 60%;
+        margin: 5px 2px;
+        padding: 0px 5px;
+        text-align: center;
+    }
+    .doctors_info .info_unit{
+        margin-bottom: 40px;
+    }
+    .pricing_box {
+        width: 60%;
+        margin: auto;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .price_info p {
+        line-height: 28px;
+        margin-bottom: 20px;
+    }
+    .tm_carousel {
+        margin-bottom: 0px;
+    }
+    .tm_carousel .tm_carousel_images{
+        height: 150px;
+    }
+    .tm_carousel .tm_carousel_images img {
+        width: 33% !important;
+    }
+    .tm_carouselArea .section_titleArea p{
+        margin-bottom: 30px;
+        padding: 0px 30px;
+    }
+    .tm_carousel .owl-carousel.owl-loaded {
+        margin: 0;
+    }
+    .tm_carousel .owl-nav .owl-prev span {
+        bottom: 50%;
+        transform: translateX(-11px);
+    }
+    .tm_carousel .owl-nav .owl-next span {
+        bottom: 50%;
+        transform: translateX(11px);
+    }
+    .info_unit {
+        display: inline-block !important;
+        margin: auto;
+        margin-top: 15px;
+    }
+    .footer_info_title img {
+        width: 50%;
+    }
+    .footer_content {
+        margin-bottom: 5px;
+    }
+    .content {
+        line-height: 16px;
+    }
+    .footer_info_title h4 {
+        font-size: 18px;
+        margin: 10px 0px;
+    }
+    .content_image img {
+        margin-top: 0px;
+    }
+    .center_content{
+        line-height: 16px;
+    }
+    .footer_bottom p {
+        text-align: center;
+    }
+    .footer_signUp {
+    display: flex;
+    margin: 10px 0px;
+    }
+    .footer_signUp input {
+    width: 70%;
+    margin: 0px;
+    }
+    .footer_signUp a {
+    width: 30%;
+    }
+    .footer_icons {
+    justify-content: start;
+    }
+    .footer_top{
+        margin: 0px 100px;
+    }
+    
+
+}
+
+/* Mobile Version */
+
+@media(max-width:425px){
+    .carousel_info p {
+        padding: 10px 0px;
+    }
+    .carousel_info h1{
+        margin-top: 10px;
+    }
+    .carousel_info p {
+        padding: 10px;
+    }
+    .carousel_info_02 p {
+        padding: 10px;
+    }
+    .welcome_section .section_title {
+        padding: 0px;
+    }
+    .doctors_info .info_unit{
+        margin-bottom: 20px;
+    }
+    .info_unit {
+        width: 80%;
+    }
+    .service_info {
+        width: 80%;
+    }
+    .pricing_box {
+        width: 45%;
+    }
+    .price_info p {
+        line-height: 20px;
+        margin-bottom: 0px;
+    }
+    .tm_carousel .tm_carousel_images img {
+        width: 40% !important;
+    }
+    .tm_carouselArea .section_titleArea p{
+        padding: 0px;
+    }
+    .pricing_box {
+        width: 80%;
+    }
+    .section_title p{
+        padding: 0px;
+    }
+    .welcome_section .section_title p {
+        padding: 0px;
+    }
+    .footer_top{
+        margin: 0px;
+    }
+}
+@media(max-width:375px){
+    .tm_carousel .tm_carousel_images img {
+        width: 45% !important;
+    }
+}
+@media(max-width:320px){
+    .tm_carousel .tm_carousel_images img {
+        width: 55% !important;
+    }
+    .footer_signUp {
+        display: inline-block;
+    }
+    .footer_signUp input {
+        width: 100%;
+    }
+    .footer_signUp a {
+        width: 100%;
+        margin-top: 10px;
+    }
+}
